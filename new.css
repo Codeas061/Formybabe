@@ -5,7 +5,7 @@
 
 body {
   font-family: "Varela Round", "Quicksand", sans-serif;
-  background: url(background.jpg);
+  background: url(WhatsApp\ Image\ 2024-03-20\ at\ 12.20.11_e25694a3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: black;
@@ -37,7 +37,6 @@ body {
   background: #f594b862;
   position: absolute;
   left: 24%;
-  -webkit-filter: blur(2px);
   z-index: -1;
   margin: 0 auto;
   border-radius: 2%;
